@@ -16,6 +16,6 @@ Cold Start Problem arise when new users or new items been added to e-commerce si
 
 ## Tackling this problem
 
-* New User:
+* New User: Samhitha
 
 
