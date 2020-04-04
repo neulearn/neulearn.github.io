@@ -10,23 +10,11 @@ Ever wondered how to reduce higher dimensional data to a lower-dimensional data 
 
 
 
-**Here is some bold text**
+Anyone able to guess and interpret this image?
 
-## Here is a secondary heading
+![10-D cube](https://en.wikipedia.org/wiki/10-cube#/media/File:10-cube.svg){: .center-block :}
 
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+It is 10-D cube and it's hard to interpret this figure.
 
 It can also be centered!
 
