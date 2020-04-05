@@ -13,6 +13,5 @@ Let us assume I have set up a new account and being an avid fan of sci-fi/thrill
 
 ## Tackling this problem
 
-#### Content-Based Recommendation using Meta Data:
-
-        Items will be recommended based on the users meta data such as geo-location, browser, device used. Nowadays, most of the users, especially teenagers put up their purchased products on social media with the product link.
+#### Content-Based Recommendation using Meta Data
+   Items will be recommended based on the users meta data such as geo-location, browser, device used. Nowadays, most of the users, especially teenagers put up their purchased products on social media with the product link.
