@@ -53,9 +53,9 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/bgimage.png"
-# footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
+ navbar-img: "/img/bgimage.png"
+ footer-img: "/img/bgimage.png"
+ page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
@@ -70,7 +70,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "yeshwanthreddy789.com"
+  email: "yeshwanthreddy789@gmail.com"
   #facebook: deanattali
   github: yeshwanth16
   twitter: yeshuu16
@@ -79,7 +79,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: yeshwanth_reddy16
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
