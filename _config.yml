@@ -43,12 +43,12 @@ avatar: "/img/avatar-icon.png"
 navbar-col: "#000000"
 navbar-text-col: "#FFFFFF"
 navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
+page-col: "#b0b0d1"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#000000"
-footer-text-col: "#e80000"
-footer-link-col: "#e80000"
+footer-text-col: "#0400ff"
+footer-link-col: "#0400ff"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -73,13 +73,14 @@ social-network-links:
   email: "yeshwanthreddy789@gmail.com"
   #facebook: deanattali
   github: yeshwanth16
+  instagram: yeshwanth_reddy16
   twitter: yeshuu16
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: yeshwanth_reddy16
+ # instagram: yeshwanth_reddy16
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -95,7 +96,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
